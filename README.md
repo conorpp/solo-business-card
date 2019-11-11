@@ -12,7 +12,7 @@ A flex PCB business card that also works as a Solo
 |  R1 | 500R  | resistor  | 0402  | 1  |  no |
 |  L1 | CL-505S-X-SD-T  | RGB LED  | 0606  | 1  |  no |
 
-C10 and C12 are tunning capacitors connected in parallel.  I have not yet measured what the nominal value for them should be, but will be somewhere around 45pF.
+\* C10 and C12 are tunning capacitors connected in parallel.  I have not yet measured what the nominal value for them should be, but will be somewhere around 45pF.
 
 # Assembly instructions
 
